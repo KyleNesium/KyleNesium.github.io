@@ -6,12 +6,10 @@ description: whoami
 
 # User settings
 username: Kyle Steenkamp
-user_description: All round nice guy.
+user_description: Hacker Musician Gamer and all round nice guy.
 user_title: DevOps Engineer
 email: kyle.steenkamp@outlook.com
-twitter_username: lorem_ipsum
 github_username:  kylenesium.github.io
-gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
